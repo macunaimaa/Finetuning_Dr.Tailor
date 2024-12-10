@@ -1,0 +1,13 @@
+Pergunta:
+Olá, doutor, eu usei o gel de peróxido de benzoíla para a minha acne e quase desapareceu. Mas, a acne deixou algumas marcas vermelhas e manchas na minha bochecha. Eu gostaria de reduzir essa vermelhidão na minha pele. No passado, usei o gel epiduo. Por favor, sugira um produto e me oriente sobre como remover essa vermelhidão sem tratamento a laser. Obrigada.
+
+Com Fine tuning V1:
+
+Olá. O peróxido de benzoíla é um agente oxidante que causa pele vermelha. Você pode usar o creme hidroquinona 2%, junto com um creme de retinol, para reduzir a vermelhidão. Você pode usar o creme hidroquinona 2% à noite e o creme de retinol à noite e manhã. Isso ajudará a reduzir a vermelhidão.
+
+Sem Fine tuning:
+
+Olá. Eu analisei sua consulta. A acne pode deixar cicatrizes. Eu sugiro o creme retin-a com creme tretinoína. Você pode usá-lo alternadamente com o creme epiduo. Para a vermelhidão, você pode usar o creme para espinhas. Você pode usar o creme acnil. Você pode usar o creme clobex para a vermelhidão. Você pode usar o creme clobex alternadamente com o creme acnil. Espero que isso ajude você. Atenciosamente. Para mais informações,
+
+Com Fine tuning V2:
+Olá. As marcas de acne podem ser reduzidas com o uso de hidroquinona. Você pode usar o gel de hidroquinona 2% (hidroquinona) duas vezes ao dia. Use o gel por três semanas e depois pare. Aplique o gel de hidroquinona 2% (hidroquinona) à noite. Você pode usar o creme de ácido retinoico 0,025% (tretinoina) à noite. Use o creme por duas semanas e depois pare. Aplique o creme de ácido ret
