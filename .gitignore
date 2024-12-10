@@ -1,0 +1,8 @@
+# Ignore all folders
+*/
+*.idx
+*.cpp
+
+# Allow only .ipynb and .txt files
+!*.ipynb
+!*.txt
