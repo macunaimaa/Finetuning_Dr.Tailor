@@ -54,7 +54,8 @@ Para realizar o fine-tuning do modelo utilizando LoRA, siga os passos abaixo:
     _ = model.generate(input_ids, streamer=text_streamer, max_new_tokens=128, pad_token_id=tokenizer.eos_token_id)
     ```
 
-## Contribuição
+
+The LoRA and model can be found at the following link: [Google Drive](https://drive.google.com/drive/folders/1XD27nzvBQJXstYa_ChxEOMfMunisD9qn?usp=drive_link)## Contribuição
 
 Sinta-se à vontade para abrir issues e pull requests para contribuir com melhorias para este projeto.
 
